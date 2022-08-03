@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(233, 227, 227);
+    border-color:black
+}
+
+p1{
+    color:white;
+}
+
+p{
+    color:white;
+}
+#leftpart{
+    background-color: grey;
+    border-radius:50px 50% 50cm 10em;
+    width: 45%;
+    height: 100%;
+    border-color:black;
+    
+}
+
+.p1{
+    color: rgb(233, 227, 227);
+}
+#button1{
+    background-color: rgb(68, 66, 66);
+    border-width:2px;
+
+}
+
+#rightpart{
+    max-width: 40%;
+    display:flex;
+    position: right;
+}
